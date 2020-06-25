@@ -10,3 +10,12 @@
 # activate venv
 # on windows -> <name>\Scripts\activate.bat
 # on unix -> source <name>/bin/activate
+
+# create requirements.txt
+# pip freeze > requirements.txt
+
+# see packages in requirements.txt
+# cat requirements.txt
+
+# install dependencies on req.txt
+# pip install -r requirements.txt
