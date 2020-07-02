@@ -22,3 +22,6 @@
 
 # install dependencies on req.txt
 # pip install -r requirements.txt
+
+# ignore venv when pushing to git or deploying
+# create .gitignore file in main dir and add <nameofvenv>/ to the file
