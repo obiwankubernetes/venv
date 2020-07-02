@@ -11,6 +11,9 @@
 # on windows -> <name>\Scripts\activate.bat
 # on unix -> source <name>/bin/activate
 
+# install dependencies for project
+# pip install ...
+
 # create requirements.txt
 # pip freeze > requirements.txt
 
